@@ -1,0 +1,17 @@
+
+.red{
+    color:red;
+    }
+.form-area
+{
+    background-color: #FAFAFA;
+	padding: 10px 40px 60px;
+	margin: 10px 0px 60px;
+	border: 1px solid GREY;
+    border-radius: 25px;
+	}
+
+.showcase-2{
+    background: black url('../img/fundo.png') no-repeat center center/cover;
+    background-size: cover;
+}
